@@ -94,9 +94,6 @@ What’s the use of generators in Python?
 How can you handle memory-heavy datasets efficiently?
 
 🧠 9. SQL & Python Integration
-
 How do you connect to a database in Python?
-
 Which library would you use to connect to MySQL or PostgreSQL?
-
 How can you run a SQL query and fetch results into a Pandas DataFrame?

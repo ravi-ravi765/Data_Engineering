@@ -1,0 +1,12 @@
+{
+    "emp1": {
+        "name": "raghu",
+        "dept": "bigboss",
+        "salary": 70000
+    },
+    "emp2": {
+        "name": "gilli",
+        "dept": "bigboss",
+        "salary": 80000
+    }
+}
